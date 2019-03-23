@@ -1,7 +1,7 @@
 package com.wgf.demo;
 
-public class newDemo1 {
+public class newDemo2 {
     public static void main(String[] args) {
-        System.out.println("this is new demo222");
+        System.out.println(" this is new demo2");
     }
 }
